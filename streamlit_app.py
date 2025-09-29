@@ -263,7 +263,7 @@ class ATSApp:
             
             jd_text = st.text_area(
                 "Paste job description here:",
-                height=390,
+                height=385,
                 placeholder="""Example:
 Senior Software Engineer
 TechCorp Inc.
