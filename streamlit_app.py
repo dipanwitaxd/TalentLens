@@ -16,8 +16,6 @@ src_dir = os.path.join(current_dir, 'src')
 # Add to Python path
 if src_dir not in sys.path:
     sys.path.insert(0, src_dir)
-if parent_dir not in sys.path:
-    sys.path.insert(0, parent_dir)
 
 try:
     from text_processor import UniversalTextProcessor
