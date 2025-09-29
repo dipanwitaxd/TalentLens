@@ -1,0 +1,21 @@
+SARAH CHEN
+Senior Data Scientist
+sarah.chen@email.com
+
+EXPERIENCE
+Senior Data Scientist | TechCorp Inc | 2022-Present
+• Built machine learning models that improved customer retention by 23% serving 2M+ users
+• Optimized recommendation algorithms reducing compute costs by $150K annually
+• Led cross-functional team of 6 engineers on real-time ML pipeline deployment
+
+Data Scientist | StartupXYZ | 2020-2022
+• Developed predictive models increasing sales forecasting accuracy from 67% to 89%
+• Implemented A/B testing framework processing 500K+ daily experiments
+• Created automated reporting system saving 15 hours/week of manual analysis
+
+SKILLS
+Python, SQL, TensorFlow, AWS, Kubernetes, Tableau, Statistics, Machine Learning
+
+EDUCATION
+M.S. Computer Science | Stanford University | 2020
+B.S. Mathematics | UC Berkeley | 2018

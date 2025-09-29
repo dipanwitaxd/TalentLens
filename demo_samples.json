@@ -1,0 +1,40 @@
+{
+  "sample_resumes": {
+    "good_resume": "SARAH CHEN\nSenior Data Scientist\nsarah.chen@email.com\n\nEXPERIENCE\nSenior Data Scientist | TechCorp Inc | 2022-Present\n\u2022 Built machine learning models that improved customer retention by 23% serving 2M+ users\n\u2022 Optimized recommendation algorithms reducing compute costs by $150K annually\n\u2022 Led cross-functional team of 6 engineers on real-time ML pipeline deployment\n\nData Scientist | StartupXYZ | 2020-2022\n\u2022 Developed predictive models increasing sales forecasting accuracy from 67% to 89%\n\u2022 Implemented A/B testing framework processing 500K+ daily experiments\n\u2022 Created automated reporting system saving 15 hours/week of manual analysis\n\nSKILLS\nPython, SQL, TensorFlow, AWS, Kubernetes, Tableau, Statistics, Machine Learning\n\nEDUCATION\nM.S. Computer Science | Stanford University | 2020\nB.S. Mathematics | UC Berkeley | 2018",
+    "problematic_resume": "John Smith\nSoftware Developer\n\nEXPERIENCE\n\u2022 Worked on various web applications using different technologies\n\u2022 Was responsible for helping with database stuff and server things\n\u2022 Participated in meetings and collaborated with team members\n\u2022 Involved in coding projects and bug fixes\n\nSKILLS\nHTML, CSS, JavaScript, Python, Java, React, Node.js, SQL, AWS, Docker, Git, Linux",
+    "entry_level_resume": "ALEX RODRIGUEZ\nRecent Computer Science Graduate\n\nEDUCATION\nB.S. Computer Science | University of California, Davis | 2024\nGPA: 3.7/4.0, Dean's List (Fall 2023, Spring 2024)\n\nPROJECTS\nPersonal Finance Tracker | Python, Flask, SQLite | 2024\n\u2022 Built web application for expense tracking with 5 user categories\n\u2022 Implemented data visualization showing spending trends over time\n\u2022 Deployed using Docker with automated testing via GitHub Actions\n\nE-commerce Website | React, Node.js, MongoDB | 2023\n\u2022 Created online store with shopping cart and payment integration\n\u2022 Designed responsive UI supporting mobile and desktop users\n\u2022 Integrated Stripe API for secure payment processing\n\nSKILLS\nPython, JavaScript, React, Node.js, SQL, Git, AWS, Problem Solving\n\nCOURSEWORK\nData Structures, Algorithms, Database Systems, Web Development, Software Engineering"
+  },
+  "sample_job_descriptions": {
+    "ml_engineer": "Senior Machine Learning Engineer\nTechVision AI | San Francisco, CA\n\nWe're looking for a Senior ML Engineer to join our team building next-generation AI products.\n\nREQUIREMENTS\n\u2022 5+ years of experience in machine learning and Python development\n\u2022 Strong background in deep learning frameworks (TensorFlow, PyTorch)\n\u2022 Experience with cloud platforms (AWS, GCP) and containerization (Docker, Kubernetes)\n\u2022 Proven track record of deploying ML models to production at scale\n\u2022 Experience with MLOps tools and practices\n\nRESPONSIBILITIES\n\u2022 Design and implement scalable ML pipelines for real-time inference\n\u2022 Collaborate with product and engineering teams to deliver ML solutions\n\u2022 Optimize model performance and reduce latency for production systems\n\u2022 Mentor junior engineers and contribute to technical decision-making\n\nNICE TO HAVE\n\u2022 PhD in Computer Science, Machine Learning, or related field\n\u2022 Experience with transformer models and large language models\n\u2022 Background in computer vision or natural language processing\n\u2022 Publications in top-tier ML conferences (NeurIPS, ICML, ICLR)\n\nCOMPENSATION\n$180K - $250K base salary + equity + benefits",
+    "frontend_developer": "Frontend Developer\nGrowthStartup Inc | Remote\n\nJoin our fast-growing team building the future of e-commerce!\n\nREQUIREMENTS\n\u2022 3+ years of frontend development experience\n\u2022 Proficiency in React, TypeScript, and modern JavaScript\n\u2022 Experience with state management (Redux, Context API)\n\u2022 Strong understanding of HTML5, CSS3, and responsive design\n\u2022 Familiarity with build tools (Webpack, Vite) and version control (Git)\n\nRESPONSIBILITIES\n\u2022 Build responsive, user-friendly web interfaces\n\u2022 Collaborate with designers to implement pixel-perfect UIs\n\u2022 Optimize application performance and loading times\n\u2022 Write clean, maintainable, and well-tested code\n\nPREFERRED QUALIFICATIONS\n\u2022 Experience with Next.js or other React frameworks\n\u2022 Knowledge of GraphQL and Apollo Client\n\u2022 Understanding of accessibility standards (WCAG)\n\u2022 Experience with testing frameworks (Jest, Cypress)\n\nWHAT WE OFFER\n\u2022 Competitive salary ($90K - $130K)\n\u2022 Fully remote work with flexible hours\n\u2022 Health insurance and 401k matching\n\u2022 Professional development budget",
+    "data_analyst": "Data Analyst\nRetailCorp | Chicago, IL\n\nHelp us make data-driven decisions that impact millions of customers!\n\nREQUIREMENTS\n\u2022 2+ years of experience in data analysis or related field\n\u2022 Strong SQL skills and experience with databases\n\u2022 Proficiency in Python or R for data analysis\n\u2022 Experience with data visualization tools (Tableau, Power BI)\n\u2022 Strong analytical and problem-solving skills\n\nRESPONSIBILITIES\n\u2022 Analyze customer behavior and sales trends\n\u2022 Create dashboards and reports for stakeholders\n\u2022 Conduct A/B tests to optimize business metrics\n\u2022 Collaborate with product and marketing teams on insights\n\nPREFERRED SKILLS\n\u2022 Experience with statistical analysis and hypothesis testing\n\u2022 Knowledge of machine learning concepts\n\u2022 Familiarity with cloud platforms (AWS, Azure)\n\u2022 Experience in retail or e-commerce industry\n\nBENEFITS\n\u2022 $70K - $95K salary range\n\u2022 Health, dental, and vision insurance\n\u2022 401k with company matching\n\u2022 Professional development opportunities"
+  },
+  "expected_outcomes": {
+    "good_resume_analysis": {
+      "quality_score": 0.88,
+      "issues_found": 2,
+      "top_role_fit": "Senior Data Scientist",
+      "fit_score": 0.91,
+      "improvements_suggested": [
+        "Add specific technologies used",
+        "Include team size context"
+      ]
+    },
+    "problematic_resume_analysis": {
+      "quality_score": 0.23,
+      "issues_found": 8,
+      "top_issues": [
+        "vague_verbs",
+        "missing_metrics",
+        "tool_without_context"
+      ],
+      "top_role_fit": "Software Engineer",
+      "fit_score": 0.45,
+      "major_improvements_needed": [
+        "Replace weak action verbs",
+        "Add quantifiable achievements",
+        "Provide technical context"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+John Smith
+Software Developer
+
+EXPERIENCE
+• Worked on various web applications using different technologies
+• Was responsible for helping with database stuff and server things
+• Participated in meetings and collaborated with team members
+• Involved in coding projects and bug fixes
+
+SKILLS
+HTML, CSS, JavaScript, Python, Java, React, Node.js, SQL, AWS, Docker, Git, Linux

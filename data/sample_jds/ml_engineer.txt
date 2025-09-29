@@ -1,0 +1,26 @@
+Senior Machine Learning Engineer
+TechVision AI | San Francisco, CA
+
+We're looking for a Senior ML Engineer to join our team building next-generation AI products.
+
+REQUIREMENTS
+• 5+ years of experience in machine learning and Python development
+• Strong background in deep learning frameworks (TensorFlow, PyTorch)
+• Experience with cloud platforms (AWS, GCP) and containerization (Docker, Kubernetes)
+• Proven track record of deploying ML models to production at scale
+• Experience with MLOps tools and practices
+
+RESPONSIBILITIES
+• Design and implement scalable ML pipelines for real-time inference
+• Collaborate with product and engineering teams to deliver ML solutions
+• Optimize model performance and reduce latency for production systems
+• Mentor junior engineers and contribute to technical decision-making
+
+NICE TO HAVE
+• PhD in Computer Science, Machine Learning, or related field
+• Experience with transformer models and large language models
+• Background in computer vision or natural language processing
+• Publications in top-tier ML conferences (NeurIPS, ICML, ICLR)
+
+COMPENSATION
+$180K - $250K base salary + equity + benefits

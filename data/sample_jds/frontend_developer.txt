@@ -1,0 +1,29 @@
+Frontend Developer
+GrowthStartup Inc | Remote
+
+Join our fast-growing team building the future of e-commerce!
+
+REQUIREMENTS
+• 3+ years of frontend development experience
+• Proficiency in React, TypeScript, and modern JavaScript
+• Experience with state management (Redux, Context API)
+• Strong understanding of HTML5, CSS3, and responsive design
+• Familiarity with build tools (Webpack, Vite) and version control (Git)
+
+RESPONSIBILITIES
+• Build responsive, user-friendly web interfaces
+• Collaborate with designers to implement pixel-perfect UIs
+• Optimize application performance and loading times
+• Write clean, maintainable, and well-tested code
+
+PREFERRED QUALIFICATIONS
+• Experience with Next.js or other React frameworks
+• Knowledge of GraphQL and Apollo Client
+• Understanding of accessibility standards (WCAG)
+• Experience with testing frameworks (Jest, Cypress)
+
+WHAT WE OFFER
+• Competitive salary ($90K - $130K)
+• Fully remote work with flexible hours
+• Health insurance and 401k matching
+• Professional development budget

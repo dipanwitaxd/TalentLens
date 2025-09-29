@@ -1,0 +1,23 @@
+ALEX RODRIGUEZ
+Recent Computer Science Graduate
+
+EDUCATION
+B.S. Computer Science | University of California, Davis | 2024
+GPA: 3.7/4.0, Dean's List (Fall 2023, Spring 2024)
+
+PROJECTS
+Personal Finance Tracker | Python, Flask, SQLite | 2024
+• Built web application for expense tracking with 5 user categories
+• Implemented data visualization showing spending trends over time
+• Deployed using Docker with automated testing via GitHub Actions
+
+E-commerce Website | React, Node.js, MongoDB | 2023
+• Created online store with shopping cart and payment integration
+• Designed responsive UI supporting mobile and desktop users
+• Integrated Stripe API for secure payment processing
+
+SKILLS
+Python, JavaScript, React, Node.js, SQL, Git, AWS, Problem Solving
+
+COURSEWORK
+Data Structures, Algorithms, Database Systems, Web Development, Software Engineering
