@@ -11,8 +11,7 @@ import importlib
 
 # Add both possible paths
 current_dir = os.path.dirname(os.path.abspath(__file__))
-parent_dir = os.path.dirname(current_dir)
-src_dir = os.path.join(parent_dir, 'src')
+src_dir = os.path.join(current_dir, 'src')
 
 # Add to Python path
 if src_dir not in sys.path:
