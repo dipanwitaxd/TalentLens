@@ -1,5 +1,5 @@
 # src/text_processor.py (FIXED VERSION)
-# Phase 1: Inputs & chunking with better bullet detection
+# Phase 1: Inputs & chunking with bullet detection
 
 import re
 from typing import List, Optional
