@@ -38,7 +38,7 @@ def run_demo():
     
     # Show results
     print(f"\n📊 Analysis Results:")
-    print(f"  Quality Score: {report.overall_score:.2f}/1.00")
+    print(f"  Quality Score: {report.overall_score:.2f}/100")
     print(f"  Issues Found: {report.total_flags}")
     print(f"  Top Role Fit: {fit_analysis.top_role_fits[0].role_title}")
     print(f"  Fit Score: {fit_analysis.top_role_fits[0].fit_score:.2f}")

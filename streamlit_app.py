@@ -483,8 +483,8 @@ NICE TO HAVE
             score = st.session_state.heuristic_report.overall_score
             st.metric(
                 "Quality Score",
-                f"{score:.2f}/1.00",
-                delta=f"{(score - 0.5):.2f}" if score != 0.5 else None
+                f"{score*100:.0f}/100",
+                delta=f"{(score - 0.5)*100:.0f}" if score != 0.5 else None
             )
         
         with col4:

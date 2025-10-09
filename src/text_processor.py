@@ -27,15 +27,14 @@ class ProcessedLine:
     metadata: dict = None
 
 class UniversalTextProcessor:
-    """IMPROVED: Better bullet point and section detection"""
     
     def __init__(self):
         self.setup_patterns()
     
     def setup_patterns(self):
-        """Setup improved regex patterns for better detection"""
+        """Setup regex patterns for better detection"""
         
-        # IMPROVED: More comprehensive bullet patterns
+        # comprehensive bullet patterns
         self.bullet_patterns = [
             r'^\s*•\s+(.+)',           # Bullet point •
             r'^\s*-\s+(.+)',           # Dash -
@@ -47,7 +46,7 @@ class UniversalTextProcessor:
             r'^\s*[a-zA-Z]\.\s+(.+)',  # Lettered a. b. c.
         ]
         
-        # IMPROVED: Better section detection
+        # section detection
         self.section_patterns = {
             SectionType.EXPERIENCE: [
                 r'(?i)^(work\s+)?experience',
@@ -96,7 +95,7 @@ class UniversalTextProcessor:
         }
     
     def process_resume(self, resume_text: str) -> List[ProcessedLine]:
-        """IMPROVED: Process resume with better parsing"""
+        """Process resume with parsing"""
         
         # Clean and normalize the text
         cleaned_text = self.clean_text(resume_text)
